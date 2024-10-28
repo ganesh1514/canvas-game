@@ -32,10 +32,10 @@ p{
     background-color: gray;
     border-radius: 10px;
     margin: auto;
-    display: flex;
+    /* display: flex; */
     border: 6px solid black;
-    justify-content: center; 
-    align-items: center;
+    /* justify-content: center;  */
+    /* align-items: center; */
     position: relative;
 }
 .box{
@@ -46,7 +46,8 @@ p{
     border-radius: 10px;
     /* top: 200px;
     left: 622px; */
-    background-color: rgb(88, 80, 80);
+    background-color: rgb(255, 255, 255);
     cursor: pointer;
-    /* box-shadow: 3px 2px 9px rgba(0, 0, 0, 0.759); */
+    box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.759);
+    transition: top 0.3s ease, left 0.3s ease;
 }
