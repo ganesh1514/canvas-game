@@ -4,6 +4,10 @@
 
 This project is a simple web-based game where a box moves within a defined container based on keyboard arrow key presses. The box smoothly animates its movement using CSS transitions and JavaScript. 🎉
 
+## Game-Preview
+
+![Game-Preview-Image](./Game-Preview.png)
+
 ## Technologies Used
 
 - **HTML**: For structuring the web page. 🌐
